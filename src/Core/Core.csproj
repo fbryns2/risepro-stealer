@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>RisePro.Core</RootNamespace>
+    <AssemblyName>RisePro.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
